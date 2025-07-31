@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stm32f10x.h": "c",
+        "esp8266.h": "c",
+        "usart.h": "c",
+        "delay.h": "c",
+        "freertos_demo.h": "c",
+        "stdio.h": "c"
+    }
+}

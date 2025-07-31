@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stm32f10x.h": "c",
+        "w25q64.h": "c",
+        "usart.h": "c",
+        "myflash.h": "c"
+    }
+}
