@@ -1,0 +1,2 @@
+# STM32-Freertos-OTA
+基于STMF103C8单片机与ESP01S模块，依托ONENET平台进而开发的附带OTA升级的MCU环境检测系统
